@@ -193,9 +193,4 @@ info.plist add:
 </array>
 ```
 
-## FAQ Support
-you can join this [QQ](https://im.qq.com/index.shtml) group, feedback your problem  
-<img src="assets/bluetooth_print.png">
 
-## Thanks For
-- [flutter_blue](https://github.com/pauldemarco/flutter_blue)
